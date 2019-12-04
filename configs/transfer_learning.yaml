@@ -1,0 +1,73 @@
+# TASK : MODALITY : MODEL NAME : PRETRAINED MODEL NAME
+BRAIN:
+    MR:
+        TL_Brain_MR_Baseline_1: best_of_ATLAS_Brain_MR_Baseline_1
+        TL_Brain_MR_Baseline_2: best_of_ATLAS_Brain_MR_Baseline_2
+        TL_Brain_MR_Baseline_3: best_of_ATLAS_Brain_MR_Baseline_3
+        TL_Brain_MR_Baseline_4: best_of_ATLAS_Brain_MR_Baseline_4
+        TL_Brain_MR_Baseline_5: best_of_ATLAS_Brain_MR_Baseline_5
+        TL_Brain_MR_Baseline_6: best_of_ATLAS_Brain_MR_Baseline_6
+        TL_Brain_MR_Baseline_7: best_of_ATLAS_Brain_MR_Baseline_7
+        TL_Brain_MR_Baseline_8: best_of_ATLAS_Brain_MR_Baseline_8
+        TL_Brain_MR_Baseline_9: best_of_ATLAS_Brain_MR_Baseline_9
+        TL_Brain_MR_Baseline_10: best_of_ATLAS_Brain_MR_Baseline_10
+        TL_Brain_MR_Baseline_11: best_of_ATLAS_Brain_MR_Baseline_11
+    CT:
+        TL_Brain_CT_Baseline_1: best_of_ATLAS_Brain_MR_Baseline_1
+        TL_Brain_CT_Baseline_2: best_of_ATLAS_Brain_MR_Baseline_2
+        TL_Brain_CT_Baseline_3: best_of_ATLAS_Brain_MR_Baseline_3
+        TL_Brain_CT_Baseline_4: best_of_ATLAS_Brain_MR_Baseline_4
+        TL_Brain_CT_Baseline_5: best_of_ATLAS_Brain_MR_Baseline_5
+        TL_Brain_CT_Baseline_6: best_of_ATLAS_Brain_MR_Baseline_6
+        TL_Brain_CT_Baseline_7: best_of_ATLAS_Brain_MR_Baseline_7
+        TL_Brain_CT_Baseline_8: best_of_ATLAS_Brain_MR_Baseline_8
+        TL_Brain_CT_Baseline_9: best_of_ATLAS_Brain_MR_Baseline_9
+        TL_Brain_CT_Baseline_10: best_of_ATLAS_Brain_MR_Baseline_10
+        TL_Brain_CT_Baseline_11: best_of_ATLAS_Brain_MR_Baseline_11
+
+VENTRICLE:
+    MR: 
+      TL_Ventricle_MR_Baseline_1: best_of_ATLAS_Ventricle_MR_Baseline_1
+      TL_Ventricle_MR_Baseline_2: best_of_ATLAS_Ventricle_MR_Baseline_2
+      TL_Ventricle_MR_Baseline_3: best_of_ATLAS_Ventricle_MR_Baseline_3
+      TL_Ventricle_MR_Baseline_4: best_of_ATLAS_Ventricle_MR_Baseline_4
+      TL_Ventricle_MR_Baseline_5: best_of_ATLAS_Ventricle_MR_Baseline_5
+      TL_Ventricle_MR_Baseline_6: best_of_ATLAS_Ventricle_MR_Baseline_6
+      TL_Ventricle_MR_Baseline_7: best_of_ATLAS_Ventricle_MR_Baseline_7
+      TL_Ventricle_MR_Baseline_8: best_of_ATLAS_Ventricle_MR_Baseline_8
+      TL_Ventricle_MR_Baseline_9: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_10: best_of_ATLAS_Ventricle_MR_Baseline_10
+      TL_Ventricle_MR_Baseline_11: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_MR_Samples10_Baseline_9: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Samples20_Baseline_9: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Samples50_Baseline_9: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_9_5_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_9_10_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_9_20_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_9_40_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_9_60_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_MR_Baseline_11_5_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_MR_Baseline_11_10_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_MR_Baseline_11_20_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_MR_Baseline_11_40_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_MR_Baseline_11_60_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+    CT:
+      TL_Ventricle_CT_Baseline_1: best_of_ATLAS_Ventricle_MR_Baseline_1
+      TL_Ventricle_CT_Baseline_2: best_of_ATLAS_Ventricle_MR_Baseline_2
+      TL_Ventricle_CT_Baseline_3: best_of_ATLAS_Ventricle_MR_Baseline_3
+      TL_Ventricle_CT_Baseline_4: best_of_ATLAS_Ventricle_MR_Baseline_4
+      TL_Ventricle_CT_Baseline_5: best_of_ATLAS_Ventricle_MR_Baseline_5
+      TL_Ventricle_CT_Baseline_6: best_of_ATLAS_Ventricle_MR_Baseline_6
+      TL_Ventricle_CT_Baseline_7: best_of_ATLAS_Ventricle_MR_Baseline_7
+      TL_Ventricle_CT_Baseline_8: best_of_ATLAS_Ventricle_MR_Baseline_8
+      TL_Ventricle_CT_Baseline_9: best_of_ATLAS_Ventricle_MR_Baseline_9
+      TL_Ventricle_CT_Baseline_10: best_of_ATLAS_Ventricle_MR_Baseline_10
+      TL_Ventricle_CT_Baseline_11: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Samples10_Baseline_11: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Samples20_Baseline_11: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Samples50_Baseline_11: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Baseline_11_5_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Baseline_11_10_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Baseline_11_20_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Baseline_11_40_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11
+      TL_Ventricle_CT_Baseline_11_60_SAMPLES: best_of_ATLAS_Ventricle_MR_Baseline_11

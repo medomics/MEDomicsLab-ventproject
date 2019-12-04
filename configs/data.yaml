@@ -1,0 +1,18 @@
+# this file's absolute path is set in init.sh
+# these will be used in scripts
+input:
+    ATLAS_PATH: /data/public/PICARE_BMETS_Raw_DICOM_Files
+    MR_PATH: /data/public/PICARE_SEGMENTATION_BRAINVENT_MR_V1
+    CT_PATH: /data/public/Training_CT_Raw_DICOM_Files
+    MR_TEST2_PATH: /data/public/Testing_MR_Raw_DICOM_Files
+    CT_TEST2_PATH: /data/public/Testing_CT_Raw_DICOM_Files
+
+output:
+    ATLAS: /home/turgutluk/data/ventricles_data/atlas
+    MR: /home/turgutluk/data/ventricles_data/mr
+    CT: /home/turgutluk/data/ventricles_data/ct
+  
+csv_splits:
+    ATLAS: /home/turgutluk/data/ventricles_data/csvs/atlas_splits_df.csv
+    MR: /home/turgutluk/data/ventricles_data/csvs/mr_splits_df.csv
+    CT: /home/turgutluk/data/ventricles_data/csvs/ct_splits_df.csv
